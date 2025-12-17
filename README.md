@@ -23,9 +23,9 @@ The code formalizes a meta-trilemma challenging pure computationalism using high
 ## Structure
 
 theories/
-    ├── Axioms.v
-    ├── Theorems.v
-    └── Main.v
+├── Axioms.v
+├── Theorems.v
+└── Main.v
 
 ## Requirements
 
