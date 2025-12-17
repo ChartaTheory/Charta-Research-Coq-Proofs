@@ -64,4 +64,9 @@ Interpretation
 The Coq code verifies internal consistency and derivability of the theorems from the stated axioms.  
 The axioms are philosophically motivated (Gödel/Penrose insight, normative irreducibility, finite computational limits).  
 Alternative weaker formulations are discussed in the paper.  
-This is a mechanized philosophical argument, not an independent mathematical proof of the axioms themselves. LicenseThis project is licensed under the MIT License – see the LICENSE file for details. You are free to use, modify, and distribute the code, including for commercial purposes, as long as the copyright notice is retained.
+This is a mechanized philosophical argument, not an independent mathematical proof of the axioms themselves.  
+
+License  
+
+This project is licensed under the MIT License – see the LICENSE file for details.  
+You are free to use, modify, and distribute the code, including for commercial purposes, as long as the copyright notice is retained.  
