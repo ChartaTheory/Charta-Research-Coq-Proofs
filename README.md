@@ -22,10 +22,9 @@ The code formalizes a meta-trilemma challenging pure computationalism using high
 
 ## Structure
 
-theories/
-├── Axioms.v
-├── Theorems.v
-└── Main.v
+- theories/Axioms.v      # Core axioms (cognitive and computational)
+- theories/Theorems.v    # Main theorems and proofs
+- theories/Main.v        # Top-level results and verification
 
 ## Requirements
 
