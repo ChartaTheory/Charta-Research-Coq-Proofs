@@ -3,7 +3,7 @@ Coq mechanization of the Meta-Trilemma for Computationalism (Beyond Computation 
 
 # Beyond Computation 1.0 – Coq Mechanization
 
-**A Formalized Meta-Trilemma for Computationalism**  
+**A Formalized Meta-Trilemma for Computationalism**
 Mechanized Philosophical Argument in Coq
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -11,13 +11,13 @@ Mechanized Philosophical Argument in Coq
 
 This repository contains the **full Coq mechanization** of the paper:
 
-> **Beyond Computation 1.0: A Formalized Meta-Trilemma – Mechanized Philosophical Argument**  
-> Siegfried Meister (with AI assistance)  
+> **Beyond Computation 1.0: A Formalized Meta-Trilemma – Mechanized Philosophical Argument**
+> Siegfried Meister (with AI assistance)
 > Version 1.0, December 2025
 
 The code formalizes a meta-trilemma challenging pure computationalism using higher-order type theory. It demonstrates that consciousness cannot be fully realized by finite computational systems, leading to an emergent meta-computational subject-functor.
 
-**Paper available at:**  
+**Paper available at:**
 [PhilPapers / PhilArchive](https://philarchive.org/rec/SIEPSA) (or Zenodo link once uploaded)
 
 ## Structure
