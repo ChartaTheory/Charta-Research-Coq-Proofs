@@ -69,4 +69,5 @@ This is a mechanized philosophical argument, not an independent mathematical pro
 License  
 
 This project is licensed under the MIT License – see the LICENSE file for details.  
-You are free to use, modify, and distribute the code, including for commercial purposes, as long as the copyright notice is retained.  
+You are free to use, modify, and distribute the code, including for commercial purposes,  
+as long as the copyright notice is retained.  
