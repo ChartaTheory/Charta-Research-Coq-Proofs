@@ -28,7 +28,9 @@ This repository contains the **full Coq mechanization** of the paper:
 > Siegfried Meister (with AI assistance)
 > Version 1.0, December 2025
 
-The code formalizes a meta-trilemma challenging pure computationalism using higher-order type theory. It demonstrates that consciousness cannot be fully realized by finite computational systems, leading to an emergent meta-computational subject-functor.
+The code formalizes a meta-trilemma challenging pure computationalism using higher-order type theory.  
+It demonstrates that consciousness cannot be fully realized by finite computational systems,  
+leading to an emergent meta-computational subject-functor.
 
 ## Structure
 
