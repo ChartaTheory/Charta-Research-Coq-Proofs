@@ -57,14 +57,16 @@ coqc theories/Main.v
 
 ```
 
-All files should compile without errors, ending with Qed. for the main theorems. Key verified results include:  
+All files should compile without errors, ending with Qed. for the main theorems.  
+Key verified results include:
+
 T1p_GoedelLimitation: No computational system realizes all mental phenomena  
 T4p_Emergent_S: Necessary existence of the subject-functor S_subject  
 
 Interpretation
 
 The Coq code verifies internal consistency and derivability of the theorems from the stated axioms.  
-The axioms are philosophically motivated (Gödel/Penrose insight, normative irreducibility, finite computational limits).  
+The axioms are philosophically resp. metalogically motivated (Gödel/Penrose insight, normative irreducibility, finite computational limits).  
 Alternative weaker formulations are discussed in the paper.  
 This is a mechanized philosophical argument, not an independent mathematical proof of the axioms themselves.  
 
