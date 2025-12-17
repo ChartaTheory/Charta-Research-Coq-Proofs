@@ -9,6 +9,19 @@ Mechanized Philosophical Argument in Coq
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Coq version](https://img.shields.io/badge/Coq-8.18+-blue.svg)](https://coq.inria.fr/)
 
+##
+
+How to get this repository:
+
+You can either download it by typing in your terminal:
+
+git clone https://github.com/ChartaTheory/Charta-Research-Coq-Proofs.git
+cd Charta-Research-Coq-Proofs
+
+Or download the Zip file "BeyondComputation.zip"
+
+##
+
 This repository contains the **full Coq mechanization** of the paper:
 
 > **Beyond Computation 1.0: A Formalized Meta-Trilemma – Mechanized Philosophical Argument**
