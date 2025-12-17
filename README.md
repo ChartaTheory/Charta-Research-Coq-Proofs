@@ -21,12 +21,12 @@ The code formalizes a meta-trilemma challenging pure computationalism using high
 [PhilPapers / PhilArchive](https://philarchive.org/rec/SIEPSA) (or Zenodo link once uploaded)
 
 ## Structure
-
+’’’
 theories/
 ├── Axioms.v      #Core axioms (cognitive and computational)
 ├── Theorems.v    #Main theorems and proofs
 └── Main.v        #Top-level results and verification
-
+’’’
 
 ## Requirements
 
