@@ -46,7 +46,6 @@ No external libraries required.
 
 ## Build
 
-```bash
 make
 
 or
@@ -54,8 +53,6 @@ or
 coqc theories/Axioms.v
 coqc theories/Theorems.v
 coqc theories/Main.v
-
-```bash
 
 All files should compile without errors, ending with Qed. for the main theorems. Key verified results include:  
 T1p_GoedelLimitation: No computational system realizes all mental phenomena  
