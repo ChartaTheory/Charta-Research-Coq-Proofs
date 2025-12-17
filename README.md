@@ -15,7 +15,7 @@ How to get this repository:
 
 You can either download it by typing in your terminal:
 
-git clone https://github.com/ChartaTheory/Charta-Research-Coq-Proofs.git
+git clone https://github.com/ChartaTheory/Charta-Research-Coq-Proofs.git  
 cd Charta-Research-Coq-Proofs
 
 Or download the Zip file "BeyondComputation.zip"
