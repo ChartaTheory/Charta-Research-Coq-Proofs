@@ -70,6 +70,14 @@ The axioms are philosophically resp. metalogically motivated (Gödel/Penrose ins
 Alternative weaker formulations are discussed in the paper.  
 This is a mechanized philosophical argument, not an independent mathematical proof of the axioms themselves.  
 
+## Paper
+
+If you use or refer to this work, please cite the accompanying paper. The full paper is available on Zenodo:
+
+[Beyond Computation: A Formalized Meta-Trilemma – Mechanized Philosophical Argument](https://zenodo.org/records/17968851)
+
+DOI: 10.5281/zenodo.17968851
+
 License  
 
 This project is licensed under the MIT License – see the LICENSE file for details.  
